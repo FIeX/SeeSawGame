@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SeeSawGame.data.unityweb",
+"asmCodeUrl": "SeeSawGame.asm.code.unityweb",
+"asmMemoryUrl": "SeeSawGame.asm.memory.unityweb",
+"asmFrameworkUrl": "SeeSawGame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
